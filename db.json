@@ -1,7 +1,7 @@
 {
   "reservation": [
     {
-      "id": 1,
+      "id": "1",
       "reservation_id": "RB0001",
       "reserve_date": "2023-05-01 10:00:00",
       "return_date": "2023-05-02 10:00:00",
@@ -15,7 +15,7 @@
       "total": "10000"
     },
     {
-      "id": 2,
+      "id": "2",
       "reservation_id": "RB0002",
       "reserve_date": "2023-05-01 10:00:00",
       "return_date": "2023-05-02 10:00:00",
