@@ -2,31 +2,15 @@
   "reservation": [
     {
       "id": 1,
-      "reservation_id": "RB0001",
-      "reserve_date": "2023-05-01 10:00:00",
-      "return_date": "2023-05-02 10:00:00",
-      "status": "reserved",
-      "first_name": "田中",
-      "last_name": "太郎",
-      "phone_number": "0908888899999",
-      "email": "test@gmail.com",
-      "car_name": "",
-      "remarks": "",
-      "total": "10000"
+      "name": "FC Barcelona",
+      "coach": "Ernesto Valverde",
+      "description": "The best football team in the world!"
     },
     {
       "id": 2,
-      "reservation_id": "RB0001",
-      "reserve_date": "2023-05-01 10:00:00",
-      "return_date": "2023-05-02 10:00:00",
-      "status": "reserved",
-      "first_name": "鈴木",
-      "last_name": "",
-      "phone_number": "0908888899999",
-      "email": "test@gmail.com",
-      "car_name": "",
-      "remarks": "",
-      "total": "10000"
+      "name": "Real Madrid",
+      "coach": "Zinedine Zidane",
+      "description": "The worst football team in the world!"
     }
   ]
 }
