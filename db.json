@@ -1,7 +1,7 @@
 {
   "reservation": [
     {
-      "id": "1",
+      "id": "RB0001",
       "reservation_id": "RB0001",
       "customer_id": "CS0001",
       "reserve_date": "2023-05-01 10:00:00",
@@ -16,7 +16,7 @@
       "total": "10000"
     },
     {
-      "id": "2",
+      "id": "RB0002",
       "reservation_id": "RB0002",
       "customer_id": "CS0002",
       "reserve_date": "2023-05-01 10:00:00",
@@ -33,7 +33,7 @@
   ],
   "customers": [
     {
-      "id": "1",
+      "id": "CS0001",
       "customer_id": "CS0001",
       "reservation_id": "RB0001",
       "first_name": "田中",
@@ -48,7 +48,7 @@
       "birthday": ""
     },
     {
-      "id": "2",
+      "id": "CS0002",
       "customer_id": "CS0002",
       "reservation_id": "RB0002",
       "first_name": "鈴木",
