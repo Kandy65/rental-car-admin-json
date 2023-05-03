@@ -3,6 +3,7 @@
     {
       "id": "1",
       "reservation_id": "RB0001",
+      "customer_id": "CS0001",
       "reserve_date": "2023-05-01 10:00:00",
       "return_date": "2023-05-02 10:00:00",
       "status": "reserved",
@@ -17,6 +18,7 @@
     {
       "id": "2",
       "reservation_id": "RB0002",
+      "customer_id": "CS0002",
       "reserve_date": "2023-05-01 10:00:00",
       "return_date": "2023-05-02 10:00:00",
       "status": "reserved",
@@ -27,6 +29,38 @@
       "car_name": "",
       "remarks": "",
       "total": "10000"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "customer_id": "CS0001",
+      "reservation_id": "RB0001",
+      "first_name": "田中",
+      "last_name": "太郎",
+      "phone_number": "09088889999",
+      "email": "test@gmail.com",
+      "zipcode": "1111111",
+      "state": "東京都",
+      "city": "世田谷区",
+      "address1": "11-1-1",
+      "address2": "Aマンション 111",
+      "birthday": ""
+    },
+    {
+      "id": "2",
+      "customer_id": "CS0002",
+      "reservation_id": "RB0002",
+      "first_name": "鈴木",
+      "last_name": "次郎",
+      "phone_number": "0908888899999",
+      "email": "test@gmail.com",
+      "zipcode": "2222222",
+      "state": "東京都",
+      "city": "練馬区",
+      "address1": "4-13-11",
+      "address2": "",
+      "birthday": ""
     }
   ]
 }
