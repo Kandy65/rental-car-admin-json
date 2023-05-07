@@ -62,5 +62,27 @@
       "address2": "",
       "birthday": ""
     }
+  ],
+  "cars": [
+    {
+      "id": "CAR0001",
+      "company_id": "CP0001",
+      "car_bundle_id": "CB0001",
+      "maker": "TOYOTA",
+      "series": "プリウス",
+      "car_number": "あ 12-34",
+      "description": "",
+      "is_disabled": true
+    },
+    {
+      "id": "CAR0002",
+      "company_id": "CP0001",
+      "car_bundle_id": "CB0002",
+      "maker": "TOYOTA",
+      "series": "RAIZE",
+      "car_number": "い 12-34",
+      "description": "",
+      "is_disabled": true
+    }
   ]
 }
