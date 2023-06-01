@@ -27,7 +27,7 @@
       "insurance_id": "INS0002",
       "customer_id": "CS0002",
       "reserved_start_time": "2023-06-01 10:00:00",
-      "reserved_end_time": "2023-06-02 10:00:00",
+      "reserved_end_time": "2023-06-01 22:00:00",
       "status": "reserved",
       "first_name": "鈴木",
       "last_name": "次郎",
